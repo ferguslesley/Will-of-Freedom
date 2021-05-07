@@ -1,6 +1,8 @@
 # Will-of-Freedom
 Text adventure game developed in Python using an object-oriented approach.
 
+Run main.py
+
 Type "help" for a list of commands
 
 Hints:
